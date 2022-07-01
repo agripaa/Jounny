@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I love to cooking and play guitar or playing game
 - 😻 Check out My Personal website: [Jounny](https://github.com/Jounnyy)
 
-### Connect with me:
+<!-- ### Connect with me:
 
-[![instagram](./img/Gambar_Ikon_Logo_Instagram__Logo_Clipart__Ikon_Instagram__Ikon_Logo_PNG_dan_Vektor_dengan_Background_Transparan_untuk_Unduh_Gratis-removebg-preview.png)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![instagram](./img/Gambar_Ikon_Logo_Instagram__Logo_Clipart__Ikon_Instagram__Ikon_Logo_PNG_dan_Vektor_dengan_Background_Transparan_untuk_Unduh_Gratis-removebg-preview.png)](https://instagram.com/codeSTACKr#gh-light-mode-only) -->
 
 ### Languages and Tools:
 
